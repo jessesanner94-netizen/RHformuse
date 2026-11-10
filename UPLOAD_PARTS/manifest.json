@@ -1,0 +1,187 @@
+{
+  "archive_name": "01_COMPLETE_PROJECT_AND_HISTORY_PUBLIC.zip",
+  "archive_size": 669750134,
+  "sha256": "938fa816d503ce87c88060a2ad1b5d9c7a0c4d133137f93e52e0f93aac9c9100",
+  "parts": [
+    {
+      "zip": "MUSE_DATA_PART_0001_OF_0030.zip",
+      "chunk": "complete_project.zip.part0001",
+      "bytes": 23000000,
+      "sha256": "ada1590f995b2b4e716120012b8387bcd60abeac3405a4aa67d3844664dd5420"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0002_OF_0030.zip",
+      "chunk": "complete_project.zip.part0002",
+      "bytes": 23000000,
+      "sha256": "b7434827a1aaf0444e2941f9ae08a0efff3bd241b282a5a232b08810a80812ff"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0003_OF_0030.zip",
+      "chunk": "complete_project.zip.part0003",
+      "bytes": 23000000,
+      "sha256": "dd31b417b457e5f43116a3a988211b9e9a68c212fe54724ca2b075d006c9680e"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0004_OF_0030.zip",
+      "chunk": "complete_project.zip.part0004",
+      "bytes": 23000000,
+      "sha256": "226e78ba318d1fd8f0bb5cfb354abf9d5470a54e71562fb9e2fe8568faf03062"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0005_OF_0030.zip",
+      "chunk": "complete_project.zip.part0005",
+      "bytes": 23000000,
+      "sha256": "20d2ad2da0d53b9fd00d6f3a83fc0951c955954861e92ecbd660edbd1d013e30"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0006_OF_0030.zip",
+      "chunk": "complete_project.zip.part0006",
+      "bytes": 23000000,
+      "sha256": "ed673b0fe243b144787fcae85992be884b022066077ed62c7f13a754e8c49c8d"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0007_OF_0030.zip",
+      "chunk": "complete_project.zip.part0007",
+      "bytes": 23000000,
+      "sha256": "a742d5feb064ea9b92f25af2ab0cf5e0680d76a83c62bdf7336536f2c9383d14"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0008_OF_0030.zip",
+      "chunk": "complete_project.zip.part0008",
+      "bytes": 23000000,
+      "sha256": "d823fcc5d4d692f66f8866cd225b18c06778296a0f71d319023b63c31b60f020"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0009_OF_0030.zip",
+      "chunk": "complete_project.zip.part0009",
+      "bytes": 23000000,
+      "sha256": "30a97f6ac65770e5d25fd35e4b017e253ff113cf51991ed289a3b17bf6de08a5"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0010_OF_0030.zip",
+      "chunk": "complete_project.zip.part0010",
+      "bytes": 23000000,
+      "sha256": "59b6b1cdb5d0b14dda2109a10fba15e2bc294bd1892189e7185b28c9c79f0a55"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0011_OF_0030.zip",
+      "chunk": "complete_project.zip.part0011",
+      "bytes": 23000000,
+      "sha256": "0f48299885d2f26b86a9d51cc218b51261cfdaae9f786b0cc52807d1b0c7144b"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0012_OF_0030.zip",
+      "chunk": "complete_project.zip.part0012",
+      "bytes": 23000000,
+      "sha256": "3a9705704c8eb7e8eed049b4ac2ef1c825dfc99aa8628bf9d8a1573162e5ba0c"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0013_OF_0030.zip",
+      "chunk": "complete_project.zip.part0013",
+      "bytes": 23000000,
+      "sha256": "78be31d58f91404a0b19525151adf16c52f0c380d1faf63965b63fcc764146d2"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0014_OF_0030.zip",
+      "chunk": "complete_project.zip.part0014",
+      "bytes": 23000000,
+      "sha256": "a5fc525c104ec354bf16bb3968ebe924414042850af15f2a900595cc242a3011"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0015_OF_0030.zip",
+      "chunk": "complete_project.zip.part0015",
+      "bytes": 23000000,
+      "sha256": "acefb99f0cdfbd733d542dfe798d3fb31432947ed718738f82a62fd86bde709d"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0016_OF_0030.zip",
+      "chunk": "complete_project.zip.part0016",
+      "bytes": 23000000,
+      "sha256": "86efc5a77989793b64e652867381c00ae94a9559cb0955b991319c4595a0ce36"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0017_OF_0030.zip",
+      "chunk": "complete_project.zip.part0017",
+      "bytes": 23000000,
+      "sha256": "34aa534856ac4ae98d8162165af4d632a649d0580142baab7d37c082fadef70d"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0018_OF_0030.zip",
+      "chunk": "complete_project.zip.part0018",
+      "bytes": 23000000,
+      "sha256": "1c10d8dab9f40f0972677fc87a369883aa07c7a4046dac578ab53658b5b73fd1"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0019_OF_0030.zip",
+      "chunk": "complete_project.zip.part0019",
+      "bytes": 23000000,
+      "sha256": "ccc61c574bc3faf9cd9ea66d5c9fcaee45e9f8f60f1cda3d2c4d8825149e4721"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0020_OF_0030.zip",
+      "chunk": "complete_project.zip.part0020",
+      "bytes": 23000000,
+      "sha256": "bc26cacc4519da8e6eed18e21f8684ced148baa88627eed580488533984520a8"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0021_OF_0030.zip",
+      "chunk": "complete_project.zip.part0021",
+      "bytes": 23000000,
+      "sha256": "c6898ac0bd9b5c5b7bdf91b72d550c84c9a4ce837c610a15989cc9db4ed2da10"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0022_OF_0030.zip",
+      "chunk": "complete_project.zip.part0022",
+      "bytes": 23000000,
+      "sha256": "3e38de499f450ac821da2f3da4a87701e7dec84362364d2abb8bd1e7098e1e34"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0023_OF_0030.zip",
+      "chunk": "complete_project.zip.part0023",
+      "bytes": 23000000,
+      "sha256": "4e8a2fc80724dd964482b8c4f0779174ca645dc29c332ce3ffaa0ae29e23aebf"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0024_OF_0030.zip",
+      "chunk": "complete_project.zip.part0024",
+      "bytes": 23000000,
+      "sha256": "12df7528173b6606a6a8b58aac37d286671f89f5a2b86e1aa9c5e6e307e35b9a"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0025_OF_0030.zip",
+      "chunk": "complete_project.zip.part0025",
+      "bytes": 23000000,
+      "sha256": "38d08bda0ad318713e11a50f17bd74c5afc04a4dd624ee60d249df8ad9d0e645"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0026_OF_0030.zip",
+      "chunk": "complete_project.zip.part0026",
+      "bytes": 23000000,
+      "sha256": "7bca75c408300c748ab90c1e8e81e603f1f883fc92bc508c4aeed59fea9dbf8c"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0027_OF_0030.zip",
+      "chunk": "complete_project.zip.part0027",
+      "bytes": 23000000,
+      "sha256": "ddf748f9f7b80c01283a852328aa346b6316ffd4a3d120d34656103313c00084"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0028_OF_0030.zip",
+      "chunk": "complete_project.zip.part0028",
+      "bytes": 23000000,
+      "sha256": "64d461a81a5dd2eb02c814d45f2ece0806fb3c77d1962047dcc7d47904df44ab"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0029_OF_0030.zip",
+      "chunk": "complete_project.zip.part0029",
+      "bytes": 23000000,
+      "sha256": "f781f58c6efeb13973fc56c42125579e4327c3ba5b6091f54dae7ed87ca6ccdb"
+    },
+    {
+      "zip": "MUSE_DATA_PART_0030_OF_0030.zip",
+      "chunk": "complete_project.zip.part0030",
+      "bytes": 2750134,
+      "sha256": "caca5e25b4c2f2495d3340afcc4be4ecb589d3a2556baf88ab30f7990741791c"
+    }
+  ]
+}
